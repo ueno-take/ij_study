@@ -1,3 +1,1 @@
-# ij_study
-
-remote
+## study ij
